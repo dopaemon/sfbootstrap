@@ -18,6 +18,7 @@ REPOS_COMMON=(
     'https://github.com/SailfishOS-vayu/android_kernel_xiaomi_sm8150.git' kernel/xiaomi/sm8150 "hybris-$HYBRIS_VER" 1
     'https://github.com/SailfishOS-vayu/android_vendor_xiaomi.git' vendor/xiaomi "hybris-$HYBRIS_VER" 1
     'https://github.com/LineageOS/android_hardware_xiaomi.git' hardware/xiaomi "lineage-$HYBRIS_VER" 1
+    'https://github.com/SailfishOS-vayu/vayu_patches.git' vayu_patches '' 1
     # SFOS misc
     'https://github.com/mer-hybris/libhybris.git' external/libhybris '' 0
     'https://github.com/SailfishOS-vayu/hybris-boot.git' hybris/hybris-boot '' 1
